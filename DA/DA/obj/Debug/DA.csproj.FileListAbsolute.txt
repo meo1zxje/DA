@@ -1,0 +1,130 @@
+D:\C#\DA\DA\bin\Debug\DA.exe.config
+D:\C#\DA\DA\bin\Debug\DA.exe
+D:\C#\DA\DA\bin\Debug\DA.pdb
+D:\C#\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\DA\DA\obj\Debug\DA.exe
+D:\C#\DA\DA\obj\Debug\DA.pdb
+D:\C#\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\DoAnTinHoc\DA\DA\bin\Debug\DA.exe.config
+D:\C#\DoAnTinHoc\DA\DA\bin\Debug\DA.exe
+D:\C#\DoAnTinHoc\DA\DA\bin\Debug\DA.pdb
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.exe
+D:\C#\DoAnTinHoc\DA\DA\obj\Debug\DA.pdb
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.HoaDon.resources
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.Menu.resources
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.NhanVien.resources
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.Properties.Resources.resources
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.SanPham.resources
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.exe
+C:\Đồ án tin học\DATH\DA\DA\obj\Debug\DA.pdb
+C:\Đồ án tin học\DATH\DA\DA\bin\Debug\DA.exe.config
+C:\Đồ án tin học\DATH\DA\DA\bin\Debug\DA.exe
+C:\Đồ án tin học\DATH\DA\DA\bin\Debug\DA.pdb
+C:\Đồ án tin học\DATHH\DA\DA\bin\Debug\DA.exe.config
+C:\Đồ án tin học\DATHH\DA\DA\bin\Debug\DA.exe
+C:\Đồ án tin học\DATHH\DA\DA\bin\Debug\DA.pdb
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.HoaDon.resources
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.Menu.resources
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.NhanVien.resources
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.Properties.Resources.resources
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.SanPham.resources
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.exe
+C:\Đồ án tin học\DATHH\DA\DA\obj\Debug\DA.pdb
+D:\C#\Đồ án tin học\DA\DA\bin\Debug\DA.exe.config
+D:\C#\Đồ án tin học\DA\DA\bin\Debug\DA.exe
+D:\C#\Đồ án tin học\DA\DA\bin\Debug\DA.pdb
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.exe
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.pdb
+D:\C#\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.exe.config
+D:\C#\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.exe
+D:\C#\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.pdb
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.exe
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.pdb
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.DangNhap.resources
+D:\C#\Đồ án tin học\DA\DA\obj\Debug\DA.DoanhThu.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.DangNhap.resources
+D:\C#\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.DoanhThu.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.exe.config
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.exe
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\bin\Debug\DA.pdb
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.DangNhap.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.DoanhThu.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.exe
+D:\C#\New folder\New folder\Đồ án tin học\DA\DA\obj\Debug\DA.pdb
+C:\Code C#\DA (2)\DA\DA\bin\Debug\DA.exe.config
+C:\Code C#\DA (2)\DA\DA\bin\Debug\DA.exe
+C:\Code C#\DA (2)\DA\DA\bin\Debug\DA.pdb
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.DangNhap.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.DoanhThu.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.HoaDon.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.Menu.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.NhanVien.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.Properties.Resources.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.SanPham.resources
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.exe
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.pdb
+C:\Code C#\DA (2)\DA\DA\obj\Debug\DA.ThongKe.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\bin\Debug\DA.exe.config
+D:\C#\New folder\New folder\DA (2)\DA\DA\bin\Debug\DA.exe
+D:\C#\New folder\New folder\DA (2)\DA\DA\bin\Debug\DA.pdb
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.csproj.AssemblyReference.cache
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.DangNhap.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.DoanhThu.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.HoaDon.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.Menu.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.NhanVien.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.Properties.Resources.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.SanPham.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.ThongKe.resources
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.csproj.GenerateResource.cache
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.csproj.CoreCompileInputs.cache
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.exe
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.pdb
+D:\C#\New folder\New folder\DA (2)\DA\DA\obj\Debug\DA.HuongDan.resources

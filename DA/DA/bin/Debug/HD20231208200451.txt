@@ -1,0 +1,6 @@
+Mã hóa đơn: HD20231208200451 	 Ngày tạo: 12/08/2023 8:04:51 PM
+
+Mã sản phẩm 	 Tên sản phẩm 	 Số lượng 	 Giá bán 	 Thành tiền 	 Ghi chú
+SP1 		 Cafe sữa 	 3 		 20000 		 60000 		 ngot
+
+Tổng tiền: 60000
